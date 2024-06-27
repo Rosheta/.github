@@ -1,7 +1,7 @@
 # Rosheta Project
 
 ## Overview
-
+![Rosheta Logo](./rosheta_logo.jpg)
 Welcome to Rosheta, a portable medical portfolio solution developed as part of our graduation project at CSED Alexandria University. This project aims to enable patients to securely share their medical portfolio with medical providers using blockchain technology, specifically Hyperledger Fabric.
 
 ## Project Structure
