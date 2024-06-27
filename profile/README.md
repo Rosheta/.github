@@ -45,7 +45,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on our c
 ## Contact
 For any inquiries or support, reach out to the project maintainers at
 - [mohamedsalama236@gmail.com](mailto:mohamedsalama236@gmail.com)
-- [lol@gmail.com]()
+- [abdullatifkhalid99@gmail.com](mailto:abdullatifkhalid99@gmail.com)
 - [lol@gmail.com]()
 - [lol@gmail.com]()
 - [lol@gmail.com]()
