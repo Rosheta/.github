@@ -16,7 +16,7 @@ The project is organized into three main repositories:
 
 - **Technical Report**: Detailed documentation can be found [here](./Technical_Book.pdf).
 - **Contributing**: Guidelines on how to contribute are outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-- **Discussions**: Engage with us on [GitHub Discussions](https://github.com/yourusername/rosheta/discussions) for questions and feedback.
+- **Discussions**: Engage with us on [GitHub Discussions](https://github.com/orgs/Rosheta/discussions) for questions and feedback.
 - **License**: This project is licensed under [License Name]. See the [GNU General Public License](./COPYING.md) file for details.
 
 ## Demo
