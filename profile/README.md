@@ -14,7 +14,7 @@ The project is organized into three main repositories:
 
 ## Documentation
 
-- **Technical Report**: Detailed documentation can be found [here](./Technical_Book.pdf).
+- **Technical Report**: Detailed documentation can be found [here](./technical_book.pdf).
 - **Contributing**: Guidelines on how to contribute are outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Discussions**: Engage with us on [GitHub Discussions](https://github.com/orgs/Rosheta/discussions) for questions and feedback.
 - **License**: This project is licensed under [License Name]. See the [GNU General Public License](./COPYING.md) file for details.
@@ -45,8 +45,8 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on our c
 ## Contact
 For any inquiries or support, reach out to the project maintainers at
 - [mohamedsalama236@gmail.com](mailto:mohamedsalama236@gmail.com)
+- [ahmedaboeleid30@gmail.com](mailto:ahmedaboeleid30@gmail.com)
+- [01032901480m@gmail.com](mailto:01032901480m@gmail.com)
+- [mohamedaiad2000@gmail.com](mailto:mohamedaiad2000@gmail.com)
+- [michaelsamir142@gmail.com](mailto:michaelsamir142@gmail.com)
 - [abdullatifkhalid99@gmail.com](mailto:abdullatifkhalid99@gmail.com)
-- [lol@gmail.com]()
-- [lol@gmail.com]()
-- [lol@gmail.com]()
-- [lol@gmail.com]()

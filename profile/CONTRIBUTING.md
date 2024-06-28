@@ -37,8 +37,8 @@ If you encounter any issues with Rosheta, please report them using our [issue tr
 For further assistance or questions regarding contributions, contact the project maintainers at:
 
 - [mohamedsalama236@gmail.com](mailto:mohamedsalama236@gmail.com)
-- [lol@gmail.com]()
-- [lol@gmail.com]()
-- [lol@gmail.com]()
-- [lol@gmail.com]()
-- [lol@gmail.com]()
+- [ahmedaboeleid30@gmail.com](mailto:ahmedaboeleid30@gmail.com)
+- [01032901480m@gmail.com](mailto:01032901480m@gmail.com)
+- [mohamedaiad2000@gmail.com](mailto:mohamedaiad2000@gmail.com)
+- [michaelsamir142@gmail.com](mailto:michaelsamir142@gmail.com)
+- [abdullatifkhalid99@gmail.com](mailto:abdullatifkhalid99@gmail.com)
